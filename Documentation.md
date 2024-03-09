@@ -24,6 +24,7 @@ Using ansysFluent script:
   Output format: .txt
 ## Convert building layout and simulation result to Raster
 In ArcGIS, Conversion tool.
-  Raster resolution: 0.8 m
+  Raster resolution: 0.8 m  
+❗Need higher lisence of ArcGIS. Tried to do with QGIS, result's not satisfied
 ## Training Machine Learning models
 (For now) ViT, Swin Transformer
